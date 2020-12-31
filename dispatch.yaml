@@ -1,0 +1,6 @@
+dispatch:
+  - url: "*app.aweti.me/*"
+    service: front
+
+  - url: "*api.aweti.me/*"
+    service: back

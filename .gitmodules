@@ -1,0 +1,9 @@
+[submodule "back"]
+	path = back
+	url = git@github.com:Kaniyama-t/awetime-backend.git
+[submodule "front"]
+	path = front
+	url = git@github.com:Kaniyama-t/awetime-frontend.git
+[submodule "www"]
+	path = www
+	url = git@github.com:Kaniyama-t/awetime-landing.git
