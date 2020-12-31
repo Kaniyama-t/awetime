@@ -53,7 +53,7 @@ Awetimeの総合プロダクト．
     - ソースリポジトリ: kaniyama-t/awetime-accounts
     - サブモジュール名: Accounts
 - API
-    - バック側システム(全サービス)・子APIモジュールのインクルード
+    - バック側システム(全サービス)・API定義(Swagger)・子APIモジュールのインクルード
     - オリジン : api.aweti.me
     - 定義ファイル: dispatch.yaml, API/API.yaml
     - ソースリポジトリ: kaniyama-t/awetime-api
